@@ -1,7 +1,7 @@
 # Amethyst-Offline
 An offline version of [Amethyst](https://wiki.angelauramc.dev/), a MC Launcher based on PojavLauncher.
 
-## Getting Amethyst
+## Getting Amethyst 
 
 You can get Amethyst via two methods:
 
